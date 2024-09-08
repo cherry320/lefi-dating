@@ -1,0 +1,36 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment (using virtualenv)
+venv/
+
+# Build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Local configuration
+config.py
+local_settings.py
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Database files
+*.sqlite
+*.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Test files
+.pytest_cache/
+coverage/
